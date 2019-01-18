@@ -3,7 +3,7 @@ title: Ex-Machina
 subtitle: UIC
 email: contact@ex-machina.ma
 description: Le club scientifique officiel de l'Université Internationale de Casablanca.
-baseurl: "/exmachina" # the subpath of your site, e.g. /blog
+baseurl: "/exmachinanew" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: 
 street_address: 1234 Somewhere Road
