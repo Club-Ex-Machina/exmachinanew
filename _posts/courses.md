@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: COURSES
+description: Le site qui regroupe tous les supports de cours de l'école d'ingénierie
+image: assets/images/logo_courses.png
 nav-menu: true
 ---
 
